@@ -1,1 +1,11 @@
 09/01/2023
+    After getting my first debit visa card, I finally revived my previous server on
+Amazon Cloud Service by using its free tier EC2 virtual machine. It makes me a lot 
+easier to continue my project and submit content on github.
+    2 weeks later, 「私は日本に留学する」, for 1.5 years. That's why I decided to write
+something to record my new life.
+    Still, before leaving, my life stays boring and gray. One leetcode problem and 
+some Japanese language learning are what I did today. And I always seem to worry 
+about having some problem arriving Japan in this period.
+    BTW, I tried purchasing a lewd game on dlsite with my new visa card to test its 
+capability on Japanese websites. 
